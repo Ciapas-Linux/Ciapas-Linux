@@ -59,6 +59,9 @@ https://github.com/Ciapas-Linux/AndroGon
 <p align="center">
 https://github.com/Ciapas-Linux/Auto-distiller-FT800
 </p>
+<p align="center">
+<img width="250" height="191" src="https://github.com/Ciapas-Linux/assets/blob/main/Web/gonv2-3.jpg">
+</p>
 
 <H4>Raylib-cmake</H4> cmake project template for mostly linux machines, that use raylib graphics library 
 <p align="center">
