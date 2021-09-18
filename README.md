@@ -6,12 +6,13 @@
 - 💞️ I’m looking to collaborate on everything new and interesting in computer science! 
 - 📫 How to reach me: maxgon@o2.pl 
 
-
-<p align="center">
-Repositories contains my own projects and also copy some of third party
+<br><br>
+<H4><p align="center">
+Repositories contains my own projects / IT experiments and also copy some of third party
 open-source projects with small modifications for help easier builds for mobile platforms.
-</p>
+</p></H4>
 
+<br><br>
 
 Android project template using raylib cross platform graphics/game library.
 
