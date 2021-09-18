@@ -1,6 +1,6 @@
 ![...](https://github.com/Ciapas-Linux/assets/blob/main/Web/byteheader1.jpg)
 
-<H3><p align="center">☢ Hi, I’m very old Ciapas-Linux -> as many as 30 years of colossal experience ☢</p></H3>
+<H3><p align="center">☢ Hi, I’m old computer user-> as many as 30 years of colossal experience ☢</p></H3>
 
 - 👀 I’m deals with programming / 2D / 3D graphics / Linux / Kernel mods / Networking / SOC / Microcontrollers / Web / Web applications / server applications / websocket / android native
 
