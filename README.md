@@ -44,12 +44,12 @@ https://github.com/Ciapas-Linux/irrlicht-ogles
 https://github.com/Ciapas-Linux/assets/tree/main/Blender
 </p>
 
-<H4>AndroGon:</H4> android studio project apk client application for remote control of the automatic distillation process. For the esp8266 wifi based microcontroller. Microcontroller device can be operated from its self, from web interface and from this apk application via wifi network.
+<H4>AndroGon:</H4> android studio project apk client application for remote control of the automatic distillation process. Utilize the esp8266 wifi based microcontroller. Microcontroller device can be operated from its self by buttons, from web interface and from this apk application via wifi network.
 <p align="center">
 https://github.com/Ciapas-Linux/AndroGon
 </p>
 
-<H4>Auto distiller:</H4> source code / software for automatic distiller with a touch display FT800 and ATMEGA2560 microcontroller plus esp8266 for wifi to web interface. Hardware device driver use , microcontroller, this software, electro valves, temperature sensors, electric heater, and even flood sensor,  for automatic control  all stages of distillation process.    
+<H4>Auto distiller:</H4> source code / software for automatic distiller column with a touch display FT800 and ATMEGA2560 microcontroller plus esp8266 for wifi to web interface. Hardware device driver use: microcontroller, this software, electro valves, temperature sensors, electric heater, and even flood sensor,  for automatic control  all stages of distillation process.    
 <p align="center">
 https://github.com/Ciapas-Linux/Auto-distiller-FT800
 </p>
