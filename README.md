@@ -6,7 +6,7 @@
 
 - 👀 I am a free software enthusiast, thank you to everyone who contributed to the environment 
 
-- 🌱 I’m currently advanced learning Android ndk, rust, kotlin, java, node, gulp, webpack, gradle, cmake .... and each new technology 😁
+- 🌱 I’m currently advanced learning Android ndk, rust, kotlin, java, node, gulp, webpack, gradle, cmake .... and each new open source technology stack😁
 
 - 💞️ I’m looking to collaborate on everything new and interesting in computer science! 
 
