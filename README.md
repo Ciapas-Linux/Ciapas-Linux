@@ -22,7 +22,7 @@ open-source projects with small modifications for help easier builds for mobile 
 
 
 <H4>Rayturbo:</H4> android project template using raylib cross platform graphics/game library.
-The result of many hours of digging through the internet for translations and no small combinations, but in the end it is, it works! Now you can import the template and build your apk application in c / c ++ using the integrated android studio environment, of course running everything on your machine requires additional sdk / ndk / java installation and configuration. 
+The result of many hours of digging through the internet for translations and extraordinary combinations, but in the end it is, it works! Now you can import the template and build your apk application in c / c ++ using the integrated android studio environment, of course running everything on your machine requires additional sdk / ndk / java installation and configuration. 
 <p align="center">
 https://github.com/Ciapas-Linux/rayturbo
 </p>
