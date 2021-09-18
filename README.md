@@ -15,7 +15,7 @@
 <br><br>
 <H3><p align="center">
 Repositories contains my own projects / IT experiments and also copy some of third party
-open-source projects with small modifications for help easier builds for mobile platforms. More coming soon...
+open-source projects with small modifications for help easier builds for mobile platforms. Much more coming soon...
 </p></H3>
 
 <br><br>
