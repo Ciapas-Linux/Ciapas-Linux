@@ -15,7 +15,7 @@ open-source projects with small modifications for help easier builds for mobile 
 <br><br>
 
 Rayturbo: android project template using raylib cross platform graphics/game library.
-the result of many hours of digging through the internet for translations and no small combinations, but in the end it is, it works! Now you can import the template and build your application in c / c ++ using the integrated android studio environment, of course running everything on your machine requires additional sdk / ndk / java installation and configuration. 
+The result of many hours of digging through the internet for translations and no small combinations, but in the end it is, it works! Now you can import the template and build your apk application in c / c ++ using the integrated android studio environment, of course running everything on your machine requires additional sdk / ndk / java installation and configuration. 
 <p align="center">
 https://github.com/Ciapas-Linux/rayturbo
 </p>
@@ -33,17 +33,17 @@ Ciapas-Linux made tiny minimal changes to makefiles and build instruction for he
 https://github.com/Ciapas-Linux/irrlicht-ogles
 </p>
 
-assets/Blender: Contains my artwork images created by Blender free 3D creation tools
+assets/Blender: Contains my artwork images created by Blender free 3D creation tools, look :) very crazy pictures, art for fun...
 <p align="center">
 https://github.com/Ciapas-Linux/assets/tree/main/Blender
 </p>
 
-AndroGon: android studio project apk client application for remote control of the automatic distillation process. For the esp8266 wifi based microcontroller. Microcontroller device can be operated from its self, from web interface and from this apk application.
+AndroGon: android studio project apk client application for remote control of the automatic distillation process. For the esp8266 wifi based microcontroller. Microcontroller device can be operated from its self, from web interface and from this apk application via wifi network.
 <p align="center">
 https://github.com/Ciapas-Linux/AndroGon
 </p>
 
-Auto distiller: source code / software for automatic distiller with a touch display FT800 and ATMEGA2560 microcontroller plus esp8266 for wifi to web interface.   
+Auto distiller: source code / software for automatic distiller with a touch display FT800 and ATMEGA2560 microcontroller plus esp8266 for wifi to web interface. Hardware device driver use , microcontroller, this software, electro valves, temperature sensors, electric heater, and even flood sensor,  for automatic control  all stages of distillation process.    
 <p align="center">
 https://github.com/Ciapas-Linux/Auto-distiller-FT800
 </p>
