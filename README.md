@@ -4,7 +4,7 @@
 
 - 👀 I’m deals with programming / 2D / 3D graphics / Linux / Kernel mods / Networking / SOC / Microcontrollers / Web / Web applications / server applications / websocket / android native / Arduino  / ESP8266 / ESP32 / c /c++ / kotlin / java / javascript / typescript / css / html / bash 
 
-- 👀 I am a free software enthusiast, thank you to everyone who contributed to the environment 
+- ʕ•͡-•ʔ I am a free software enthusiast, thank you to everyone who contributed to the environment 
 
 - 🌱 I’m currently advanced learning Android ndk, rust, kotlin, java, node, gulp, webpack, gradle, cmake .... and each new open source technology stack😁
 
