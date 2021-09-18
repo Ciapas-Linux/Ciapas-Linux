@@ -2,7 +2,7 @@
 
 <H3><p align="center">☢ Hi, I’m old computer user-> as many as 30 years of colossal experience ☢</p></H3>
 
-- 👀 I’m deals with programming / 2D / 3D graphics / Linux / Kernel mods / Networking / SOC / Microcontrollers / Web / Web applications / server applications / websocket / android native
+- 👀 I’m deals with programming / 2D / 3D graphics / Linux / Kernel mods / Networking / SOC / Microcontrollers / Web / Web applications / server applications / websocket / android native / Arduino  / ESP8266 /ESP32
 
 - 👀 I am a free software enthusiast, thank you to everyone who contributed to the environment 
 
