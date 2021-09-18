@@ -39,7 +39,7 @@ With this software you can encrypt any file and turn it into a png image at the 
 https://github.com/Ciapas-Linux/pngblob
 </p>
 
-<H4>irrlicht-ogles:</H4> copy of repository Irrich 3D engine for Android open GL ES
+<H4>irrlicht-ogles:</H4> Here is copy of repository Irrich 3D engine for Android open GL ES
 Ciapas-Linux made tiny minimal changes to makefiles and build instruction for help build irrlicht binaries for android platforms.
 <p align="center">
 https://github.com/Ciapas-Linux/irrlicht-ogles
