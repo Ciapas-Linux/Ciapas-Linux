@@ -59,6 +59,11 @@ https://github.com/Ciapas-Linux/Auto-distiller-FT800
 https://github.com/Ciapas-Linux/raylib-cmake
 </p>
 
+<H4>Linux-config:</H4>Various configuration files for debian linux , to use it better, are often needed for installation or configuration. 
+<p align="center">
+https://github.com/Ciapas-Linux/linux-config
+</p>
+
 
 
 
