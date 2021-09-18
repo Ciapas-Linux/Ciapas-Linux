@@ -55,7 +55,7 @@ https://github.com/Ciapas-Linux/assets/tree/main/Blender
 https://github.com/Ciapas-Linux/AndroGon
 </p>
 
-<H4>Auto distiller:</H4> source code / software for automatic distiller column with a touch display FT800 and ATMEGA2560 microcontroller plus esp8266 for wifi to web interface. Hardware device driver use: microcontroller, this software, electro valves, temperature sensors, electric heater, and even flood sensor,  for automatic control  all stages of distillation process.    
+<H4>Auto distiller:</H4> source code / software for automatic distiller column with a touch display FT800 and ATMEGA 2560 microcontroller plus esp8266 for wifi to web interface. Hardware device driver use: microcontroller, this software, electro valves, temperature sensors, electric heater, and even flood sensor,  for automatic control  all stages of distillation process.    
 <p align="center">
 https://github.com/Ciapas-Linux/Auto-distiller-FT800
 </p>
