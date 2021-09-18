@@ -40,12 +40,12 @@ Contains my artwork images created by Blender free 3D creation tools
 https://github.com/Ciapas-Linux/assets/tree/main/Blender
 </p>
 
-Android studio project apk client application for remote control of the automatic distillation process. For the esp8266 based microcontroller and FT800 touch display. 
+Android studio project apk client application for remote control of the automatic distillation process. For the esp8266 wifi based microcontroller. Microcontroller device can be operated from its self, from web interface and from this apk application.
 <p align="center">
 https://github.com/Ciapas-Linux/AndroGon
 </p>
 
-Automatic distiller with a touch display FT800 for ATMEGA2560 
+Software for automatic distiller with a touch display FT800 and ATMEGA2560 microcontroller plus esp8266 for wifi to web interface.   
 <p align="center">
 https://github.com/Ciapas-Linux/Auto-distiller-FT800
 </p>
