@@ -2,7 +2,7 @@
 
 - 👋 ☢ Hi, I’m very old Ciapas-Linux -> as many as 25 years of colossal experience ☢
 
-- 👀 I’m deals with programming / 2D / 3D graphics / Linux / Kernel mods / Networking / SOC / Microcontrollers / Web / Web applications / server applications
+- 👀 I’m deals with programming / 2D / 3D graphics / Linux / Kernel mods / Networking / SOC / Microcontrollers / Web / Web applications / server applications / websocket / android native
 
 - 🌱 I’m currently advanced learning Android ndk, rust, kotlin, java, node, gulp, webpack, gradle, cmake .... and each new technology 😁
 
