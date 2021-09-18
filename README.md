@@ -2,15 +2,15 @@
 
 <H3><p align="center">☢ Hi, I’m old computer user-> as many as 30 years of gigantic experience ☢</p></H3>
 
-- 👀 I’m deals with programming / 2D / 3D graphics / Linux / Kernel mods / Networking / SOC / Microcontrollers / Web / Web applications / server applications / websocket / android native / Arduino  / ESP8266 / ESP32 / c /c++ / kotlin / java / javascript / typescript / css / html / bash 
+- 👀 I’m deals with programming / 2D / 3D graphics / Linux / Kernel mods / Networking / SOC / Microcontrollers / Web / Web applications / server applications / websocket / android native / Arduino  / ESP8266 / ESP32 / c /c++ / kotlin / java / javascript / typescript / css / html / bash ●
 
-- ʕ•͡-•ʔ I am a free software enthusiast, thank you to everyone who contributed to the environment 
+- ʕ•͡-•ʔ I am a free software enthusiast, thank you to everyone who contributed to the environment ●
 
-- 🌱 I’m currently advanced learning Android ndk, rust, kotlin, java, node, gulp, webpack, gradle, cmake .... and each new open source technology stack😁
+- 🌱 I’m currently advanced learning Android ndk, rust, kotlin, java, node, gulp, webpack, gradle, cmake .... and each new open source technology stack😁●
 
-- 💞️ I’m looking to collaborate on everything new and interesting in computer science! 
+- 💞️ I’m looking to collaborate on everything new and interesting in computer science! ●
 
-- 📫 How to reach me: maxgon@o2.pl 
+- 📫 How to reach me: maxgon@o2.pl ●
 
 <br><br>
 <H3><p align="center">
