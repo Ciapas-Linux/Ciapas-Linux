@@ -4,6 +4,8 @@
 
 - 👀 I’m deals with programming / 2D / 3D graphics / Linux / Kernel mods / Networking / SOC / Microcontrollers / Web / Web applications / server applications / websocket / android native
 
+- 👀 I am a free software enthusiast, thank you to everyone who contributed to the environment 
+
 - 🌱 I’m currently advanced learning Android ndk, rust, kotlin, java, node, gulp, webpack, gradle, cmake .... and each new technology 😁
 
 - 💞️ I’m looking to collaborate on everything new and interesting in computer science! 
