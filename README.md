@@ -20,10 +20,16 @@ open-source projects with small modifications for help easier builds for mobile 
 
 <br><br>
 
+
 <H4>Rayturbo:</H4> android project template using raylib cross platform graphics/game library.
 The result of many hours of digging through the internet for translations and no small combinations, but in the end it is, it works! Now you can import the template and build your apk application in c / c ++ using the integrated android studio environment, of course running everything on your machine requires additional sdk / ndk / java installation and configuration. 
 <p align="center">
 https://github.com/Ciapas-Linux/rayturbo
+</p>
+
+<H4>android-irrlicht:</H4> The repository contains a project template for android studio, thanks to which you can use the 3D irrlich graphic library in your applications. The project contains debug versions of the irrlicht library for arm, arm64, x86, and x86_64. For this, you can download the repository and build your android apk app.
+<p align="center">
+https://github.com/Ciapas-Linux/android-irrlicht
 </p>
 
 
