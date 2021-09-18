@@ -1,7 +1,7 @@
 ![...](https://github.com/Ciapas-Linux/assets/blob/main/Web/byteheader1.jpg)
 
 - 👋 ☢ Hi, I’m very old Ciapas-Linux -> as many as 25 years of colossal experience ☢
-- 👀 I’m interested in programming / 2D / 3D graphics / Linux / Kernel / Networking / SOC / Microcontrollers
+- 👀 I’m deals with programming / 2D / 3D graphics / Linux / Kernel / Networking / SOC / Microcontrollers / Web / Web applications
 - 🌱 I’m currently advanced learning Android ndk, rust, kotlin, java, node,.... and each new technology 😁
 - 💞️ I’m looking to collaborate on everything new and interesting in computer science! 
 - 📫 How to reach me: maxgon@o2.pl 
