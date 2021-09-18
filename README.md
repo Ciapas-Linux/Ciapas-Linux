@@ -27,7 +27,7 @@ The result of many hours of digging through the internet for translations and no
 https://github.com/Ciapas-Linux/rayturbo
 </p>
 
-<H4>android-irrlicht:</H4> The repository contains a project template for android studio, thanks to which you can use the 3D irrlich graphic library in your applications. The project contains debug versions of the irrlicht library for arm, arm64, x86, and x86_64. Feel free to download the repository and build your android full multimedia apk app.
+<H4>android-irrlicht:</H4>The repository contains a project template for android studio, thanks to which you can use the 3D irrlich graphic library in your applications. The project contains prebuilt debug versions of the irrlicht library for arm, arm64, x86, and x86_64. Now you can download the repository and build your android apk application more easier. Feel free to download the repository and build your android full multimedia apk app.
 <p align="center">
 https://github.com/Ciapas-Linux/android-irrlicht
 </p>
