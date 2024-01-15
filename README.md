@@ -10,7 +10,7 @@
 
 - 💞️ I’m looking to collaborate on everything new and interesting in computer science! ●
 
-- 📫 How to reach me: maxgon@o2.pl ●
+- 📫 How to reach me: maxgon@o2.pl ● cykupyk@gmail.com
 
 <br><br>
 <H3><p align="center">
