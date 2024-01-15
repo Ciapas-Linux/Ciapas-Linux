@@ -20,6 +20,11 @@ open-source projects with small modifications for help easier builds for mobile 
 
 <br><br>
 
+<H4>ProfessorMad:</H4> The prototype of the game titled the Adventures of professor Łysolek made using the godot game engine 4.3 + , and free media creation tools available on the web 
+<p align="center">
+https://github.com/Ciapas-Linux/ProfessorMad
+  <img src="https://github.com/Ciapas-Linux/assets/blob/main/Web/ysolek_1.png?raw=true"/>
+</p>
 
 <H4>Rayturbo:</H4> android project template using raylib cross platform graphics/game library.
 The result of many hours of digging through the internet for translations and extraordinary combinations, but in the end it is, it works! Now you can import the template and build your apk application in c / c ++ using the integrated android studio environment, of course running everything on your machine requires additional sdk / ndk / java installation and configuration. 
