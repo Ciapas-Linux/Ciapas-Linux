@@ -32,6 +32,13 @@ https://github.com/Ciapas-Linux/ts-mcu
   <img src="https://github.com/Ciapas-Linux/assets/raw/main/Web/ts-mcu_1.png?raw=true"/>
 </p>
 
+<H4>Gon2-module:</H4> Software for the distiller controller based on the esp8266 microcontroller, this project creates a binary file, i.e. firmware for the microcontroller.
+<p align="center">
+https://github.com/Ciapas-Linux/Gon2-module
+  <img src="https://raw.githubusercontent.com/Ciapas-Linux/assets/main/Web/gonv2-2.jpg"/>
+</p>
+
+
 <H4>Rayturbo:</H4> android project template using raylib cross platform graphics/game library.
 The result of many hours of digging through the internet for translations and extraordinary combinations, but in the end it is, it works! Now you can import the template and build your apk application in c / c ++ using the integrated android studio environment, of course running everything on your machine requires additional sdk / ndk / java installation and configuration. 
 <p align="center">
